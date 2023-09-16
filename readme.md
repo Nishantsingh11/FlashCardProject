@@ -89,7 +89,7 @@ Sure, here's the section about the package details added to your README.md:
 ---
 
 ## 10. Package Details
-- **Homepage:** [FlashCard Homepage](https://nishantsingh11.github.io/FlashCard)
+- **Homepage:** [FlashCard Homepage](https://nishantsingh11.github.io/FlashCard/)
 - **Name:** flascard
 - **Version:** 0.1.0
 - **Private:** true
