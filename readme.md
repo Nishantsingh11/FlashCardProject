@@ -81,10 +81,8 @@ Contributions to the Flashcard Management App are encouraged! To contribute:
 3. Commit your changes and push them to your fork.
 4. Submit a pull request to the main repository.
 
-## 9. License
-This project is licensed under the MIT License. You can find the full license text in the LICENSE file.
+## API
 
-Sure, here's the section about the package details added to your README.md:
 
 ---
 
