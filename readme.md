@@ -49,7 +49,7 @@ To run the Flashcard Management App locally, follow these steps:
     npm start
     ```
 
-5. Access the application at http://localhost:3000.
+5. Access the application at (https://nishantsingh11.github.io/FlashCard/)
 
 ## 4. Usage
 - **Creating Flashcards:** Use the "Create New" option to create flashcard groups, add terms, and upload images.
